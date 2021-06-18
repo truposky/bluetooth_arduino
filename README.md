@@ -1,2 +1,2 @@
-# bluetooth_prueba
+# bluetooth_test
 bluetoth conection to arduino
