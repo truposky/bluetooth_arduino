@@ -1,2 +1,2 @@
 # bluetooth_arduino
-bluetoth conection to arduino
+bluetoth connection to arduino
